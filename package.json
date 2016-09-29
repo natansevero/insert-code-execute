@@ -1,0 +1,23 @@
+{
+  "name": "insert-code-execute",
+  "version": "1.0.0",
+  "description": "Aplicação para interpretação de codigo HTML/CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natansevero/insert-code-execute.git"
+  },
+  "author": "Natan Severo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natansevero/insert-code-execute/issues"
+  },
+  "homepage": "https://github.com/natansevero/insert-code-execute#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "npm-requirejs": "0.0.21"
+  }
+}
